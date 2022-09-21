@@ -11,5 +11,5 @@ redirect_from:
 
 Biography
 ---
-I am Zhenyi, currently an undergraduate student in Mathematics and Applied Mathemaatics in Lanzhou University. I have a great interest in applied mathematics. It is hoped that mathematical theory can provide some different research perspective on real scientific problems. That's what I want to pursue in the future.
+I am Zhenyi, currently an undergraduate student in Mathematics and Applied Mathemaatics in Lanzhou University. I have a great interest in applied mathematics. It is hoped that mathematical theory can provide some different research perspectives on real scientific problems. And that's what I want to pursue in the future.
 
