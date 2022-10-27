@@ -26,6 +26,6 @@ Awards & Scholarship
 * Contemporary Undergraduate Mathematical Contest in Modeling, Provincial First Prize, Feb. 2022
 * National College Students English Competition, National Second Prize, Dec. 2020
 
-Visiting Statistics
+Visiting Activities
 ---
 * [2022 Undergraduate Student Research Program on Applied Mathematics](https://bicmr.pku.edu.cn/content/show/17-2720.html), Peking University
