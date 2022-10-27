@@ -11,7 +11,11 @@ redirect_from:
 
 Biography
 ---
-I am Zhenyi, currently an undergraduate student in Mathematics and Applied Mathematics in Lanzhou University. I have a great interest in applied mathematics. It is hoped that mathematical theory can provide some different research perspectives on real scientific problems. And that's what I want to pursue in the future.
+I am Zhenyi, currently an undergraduate student in Mathematics and Applied Mathematics in Lanzhou University. I have a great interest in applied mathematics. It is hoped that mathematical theory can provide some different research perspectives on real scientific problems. And that's what I want to pursue in the future. 
+
+Grants
+---
+* National Undergraduate Innovation Traning Programme of China, Study on stochastic algorithms for Langevin equation in physics, (No. 202210730157, Value: CNY 5,000)
 
 Awards & Scholarship
 ---
@@ -21,3 +25,7 @@ Awards & Scholarship
 * National College Students Mathematical Competition, Provincial First Prize, Dec. 2021
 * Contemporary Undergraduate Mathematical Contest in Modeling, Provincial First Prize, Feb. 2022
 * National College Students English Competition, National Second Prize, Dec. 2020
+
+Visiting Statistics
+---
+* [2022 Undergraduate Student Research Program on Applied Mathematics](https://bicmr.pku.edu.cn/content/show/17-2720.html), Peking University
