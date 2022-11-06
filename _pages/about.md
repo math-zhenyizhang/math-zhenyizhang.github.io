@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ---
-I am Zhenyi, currently an undergraduate student in Mathematics and Applied Mathematics in Lanzhou University. And I'am expected to graduate in 2023. I have a great interest in applied mathematics, especially in the interdisciplinary field involving mathematics. Nowadays mathematics has played an important role in more and more scientific problems. We hope to apply rigorous mathematical models in more fields to reveal existing phenomena and solve practical problems. And that's what I want to pursue in the future. 
+I am Zhenyi, currently an undergraduate student in Mathematics and Applied Mathematics in Lanzhou University. And I'm expected to graduate in 2023 and has received the conditional offer of Peking University. I have a great interest in applied mathematics, especially in the interdisciplinary field involving mathematics. Nowadays mathematics has played an important role in more and more scientific problems. We hope to apply rigorous mathematical models in more fields to reveal existing phenomena and solve practical problems. And that's what I want to pursue in the future. 
 
 Grants
 ---
@@ -29,4 +29,4 @@ Awards & Scholarship
 Visiting Activities
 ---
 * [2022 Undergraduate Student Research Program on Applied Mathematics](https://bicmr.pku.edu.cn/content/show/17-2720.html), Peking University, July 2022 - August 2022
-* Summer Camp Exchange, Shanghai Jiao Tong University, July 2021- August 2022
+* [Summer Camp Exchange](https://news.sjtu.edu.cn/zhxw/20210728/156275.html), Shanghai Jiao Tong University, July 2021- August 2022
