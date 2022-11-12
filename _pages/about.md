@@ -25,7 +25,7 @@ Awards & Scholarship
 * National College Students Mathematical Competition, Provincial First Prize, Dec. 2021
 * Contemporary Undergraduate Mathematical Contest in Modeling, Provincial First Prize, Feb. 2022
 * National College Students English Competition, National Second Prize, Dec. 2020
-* First-class Scholarship for Outstanding Students, LZU, Ranked 1/159 Dec. 2021
+* First-class Scholarship for Outstanding Students, LZU, Ranked 1/159, Dec. 2021
 
 Visiting Activities
 ---
