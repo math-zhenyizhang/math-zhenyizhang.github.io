@@ -21,11 +21,11 @@ Awards & Scholarship
 ---
 * [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046)(2‰, nationally), Ministry of Education of P.R. China, Dec. 2020
 * [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046)(2‰, nationally), Ministry of Education of P.R. China, Oct. 2022
+* First-class Scholarship for Outstanding Students, LZU, Dec. 2021
 * COMAP's Mathematical Contest in Modeling, Meritorious Winner (Top 3% globally), May 2022
 * National College Students Mathematical Competition, Provincial First Prize, Dec. 2021
 * Contemporary Undergraduate Mathematical Contest in Modeling, Provincial First Prize, Feb. 2022
 * National College Students English Competition, National Second Prize, Dec. 2020
-* First-class Scholarship for Outstanding Students, LZU, Ranked 1/159, Dec. 2021
 
 Visiting Activities
 ---
