@@ -15,13 +15,13 @@ I am Zhenyi, currently an undergraduate student in Mathematics and Applied Mathe
 
 Grants
 ---
-* [National Undergraduate Innovation Traning Program of China](http://gjcxcy.bjtu.edu.cn/index.aspx), study on stochastic simulation algorithms for Langevin equation driven by Lévy Process, (No. 202210730036, Value: CNY 5,000, Ministry of Education of P.R. China)
+* [National Undergraduate Innovation Traning Program of China](http://gjcxcy.bjtu.edu.cn/index.aspx), study on stochastic simulation algorithms for Langevin equation driven by Lévy Process, (No. 202210730036, Value: CNY 5,000, Sponsored by Ministry of Education of P.R. China)
 
 Awards & Scholarship
 ---
 * [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046)(2‰, nationally), Ministry of Education of P.R. China, Dec. 2020
 * [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046)(2‰, nationally), Ministry of Education of P.R. China, Oct. 2022
-* First-class Scholarship for Outstanding Students, LZU, Dec. 2021
+* First-class Scholarship for Outstanding Students, Lanzhou University, Dec. 2021
 * COMAP's Mathematical Contest in Modeling, Meritorious Winner (Top 3% globally), May 2022
 * National College Students Mathematical Competition, Provincial First Prize, Dec. 2021
 * Contemporary Undergraduate Mathematical Contest in Modeling, Provincial First Prize, Feb. 2022
