@@ -21,13 +21,7 @@ Awards & Scholarship
 ---
 * [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046)(2‰, nationally), Ministry of Education of P.R. China, Dec. 2020
 * [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046)(2‰, nationally), Ministry of Education of P.R. China, Oct. 2022
-* First-class Scholarship for Outstanding Students, Lanzhou University, Dec. 2021
-* COMAP's Mathematical Contest in Modeling, Meritorious Winner (Top 3% globally), May 2022
-* National College Students Mathematical Competition, Provincial First Prize, Dec. 2021
-* Contemporary Undergraduate Mathematical Contest in Modeling, Provincial First Prize, Feb. 2022
-* National College Students English Competition, National Second Prize, Dec. 2020
 
 Visiting Activities
 ---
 * [2022 Undergraduate Student Research Program on Applied Mathematics](https://bicmr.pku.edu.cn/content/show/17-2720.html), Peking University, July 2022 - August 2022
-* [Summer Camp Exchange](https://news.sjtu.edu.cn/zhxw/20210728/156275.html), Shanghai Jiao Tong University, July 2021- August 2022
