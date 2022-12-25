@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ---
-Hi! I am Zhenyi, currently an undergraduate student in Mathematics and Applied Mathematics in Lanzhou University. And I'm expected to graduate in 2023. I have a great interest in applied mathematics, especially in the interdisciplinary field involving mathematics. Nowadays mathematics has played an important role in more and more scientific problems. We hope to apply rigorous mathematical models in more fields to reveal existing phenomena and solve practical problems. And that's what I want to pursue in the future. 
+Hi! I am Zhenyi, currently an undergraduate student in Mathematics and Applied Mathematics in Lanzhou University. And I'm expected to graduate in 2023. I have a great interest in applied mathematics, especially in the interdisciplinary field involving mathematics. Nowadays mathematics has played an important role in more and more scientific problems. We hope to apply rigorous mathematical tools in more fields to reveal existing phenomena and solve practical problems. And that's what I want to pursue in the future. 
 
 Grants
 ---
@@ -19,8 +19,8 @@ Grants
 
 Awards & Scholarship
 ---
+* [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046)(2‰, nationally), Ministry of Education of P.R. China, Dec. 2022
 * [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046)(2‰, nationally), Ministry of Education of P.R. China, Dec. 2020
-* [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046)(2‰, nationally), Ministry of Education of P.R. China, Oct. 2022
 
 Visiting Activities
 ---
