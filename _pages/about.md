@@ -15,7 +15,7 @@ Hi! I am Zhenyi, currently an undergraduate student in Mathematics and Applied M
 
 Grants
 ---
-* [National Undergraduate Innovation Traning Program of China](http://gjcxcy.bjtu.edu.cn/index.aspx), study on stochastic simulation algorithms for Langevin equation driven by Lévy Process, (No. 202210730036, Value: CNY 5,000, Sponsored by Ministry of Education of the P.R. China)
+* [National Undergraduate Innovation Traning Program of China](http://gjcxcy.bjtu.edu.cn/index.aspx), study on stochastic simulation algorithms for Langevin equation driven by Lévy Process, (No. 202210730036, Value: CNY 5,000, Sponsored by The Ministry of Education of the P.R. China)
 
 Awards & Scholarship
 ---
