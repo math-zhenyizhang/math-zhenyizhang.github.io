@@ -21,7 +21,7 @@ Awards & Scholarship
 ---
 * [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046)(2‰, nationally), Ministry of Education of the P.R. China, Dec. 2022
 * [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046)(2‰, nationally), Ministry of Education of the P.R. China, Dec. 2020
-* COMAP’s Mathematical Contest in Modeling, Meritorious Winner, May. 2022
+* COMAP’s Mathematical Contest in Modeling, Meritorious Winner, May 2022
 
 Visiting Activities
 ---
