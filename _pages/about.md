@@ -25,4 +25,4 @@ Awards & Scholarship
 
 Visiting Activities
 ---
-* [2022 Undergraduate Student Research Program on Applied Mathematics](https://bicmr.pku.edu.cn/content/show/17-2720.html), Peking University, July 2022 - August 2022
+* [2022 Undergraduate Student Research Program on Applied Mathematics](https://bicmr.pku.edu.cn/content/show/17-2720.html), Sponsored by Peking University, July 2022 - August 2022
