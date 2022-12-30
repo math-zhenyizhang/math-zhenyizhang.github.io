@@ -25,7 +25,7 @@ Awards & Scholarship
 * [National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202012/t20201217_506100.html), Sponsored by The Ministry of Education of the P. R. China, No. BZK202008934, Dec. 2020
 * First-class Scholarship for Outstanding Students, Sponsored by Lanzhou University, Dec. 2021
 * [COMAP’s Mathematical Contest in Modeling](https://math-zhenyizhang.github.io/files/2209832.pdf), Meritorious Winner, May 2022
-* National College Students Mathematical Competition, Provincial First Prize, CMS, Dec. 2021
+* National Undergraduate Students Mathematical Competition, Provincial First Prize, CMS, Dec. 2021
 * Contemporary Undergraduate Mathematical Contest in Modeling, Provincial First Prize, CSIAM, Feb. 2022 
 
 Visiting Activities
