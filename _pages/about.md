@@ -17,7 +17,7 @@ I have a great interest in applied mathematics, especially in the interdisciplin
 
 Grants
 ---
-* [National Undergraduate Student Innovation Traning Program of China](http://gjcxcy.bjtu.edu.cn/index.aspx), study on stochastic simulation algorithms for Langevin equation driven by Lévy Process, (No. 202210730036, Value: CNY 5,000, Sponsored by The Ministry of Education of the P. R. China)
+* [National Undergraduate Student Innovation Traning Program of China](http://gjcxcy.bjtu.edu.cn/index.aspx), study on Random Batch Methods for Langevin equation driven by Lévy Process, (No. 202210730036, Value: CNY 5,000, Sponsored by The Ministry of Education of the P. R. China)
 * [Elite Undergraduate Traning Program in Applied Mathematics](https://baike.baidu.com/item/%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AF%95%E9%AA%8C%E8%AE%A1%E5%88%92/3486963), [Cuiying Honors College, Lanzhou University](http://chc.lzu.edu.cn/)
 
 Awards & Scholarship
