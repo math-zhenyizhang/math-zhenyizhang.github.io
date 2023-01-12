@@ -29,6 +29,7 @@ Grants
 * National Undergraduate Students Mathematical Competition, Provincial First Prize, CMS, Dec. 2021
 * Contemporary Undergraduate Mathematical Contest in Modeling, Provincial First Prize, CSIAM, Feb. 2022 
 -->
+
 Visiting Activities
 ---
 * [2022 Undergraduate Student Research Program on Applied Mathematics](https://bicmr.pku.edu.cn/content/show/17-2720.html), study on the modeling, algorithms and uncertainty quantification of ice accretion on airfoils, sponsored by SMS and BICMR, Peking University, July 2022 - present
