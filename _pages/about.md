@@ -17,7 +17,7 @@ I have a great interest in applied mathematics, especially in the interdisciplin
 
 Grants
 ---
-* [National Undergraduate Student Innovation Traning Program of China](http://gjcxcy.bjtu.edu.cn/index.aspx), study on Random Batch Methods for Langevin equation driven by Lévy Process, (No. 202210730036, sponsored by The Ministry of Education of the P.R. China)
+* [National Undergraduate Student Innovation Traning Program of China](http://gjcxcy.bjtu.edu.cn/index.aspx), study on a stochastic algorithm for molecular dynamics driven by Lévy Process, (No. 202210730036, sponsored by The Ministry of Education of the P.R. China)
 * [Elite Undergraduate Traning Program in Applied Mathematics](https://baike.baidu.com/item/%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AF%95%E9%AA%8C%E8%AE%A1%E5%88%92/3486963), [Cuiying Honors College, Lanzhou University](http://chc.lzu.edu.cn/)
 
 <!--Awards & Scholarship
@@ -30,6 +30,6 @@ Grants
 * Contemporary Undergraduate Mathematical Contest in Modeling, Provincial First Prize, CSIAM, Feb. 2022 
 -->
 
-Visiting Activities
+Visiting Activity
 ---
-* [2022 Undergraduate Student Research Program on Applied Mathematics](https://bicmr.pku.edu.cn/content/show/17-2720.html), study on the modeling, algorithms and uncertainty quantification of ice accretion on airfoils, sponsored by SMS and BICMR, Peking University, July 2022 - present
+* [2022 Undergraduate Student Research Program on Applied Mathematics](https://bicmr.pku.edu.cn/content/show/17-2720.html), study on the modeling, algorithms and uncertainty quantification of ice accretion on airfoils, sponsored by SMS and BICMR, Peking University, July 2022 - August 2022
