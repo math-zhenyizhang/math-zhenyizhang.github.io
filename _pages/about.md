@@ -18,7 +18,7 @@ I have a great interest in applied mathematics, especially in the interdisciplin
 Warmly welcome the discussion!
 
 **Contact**:
-[zhangzhenyi19@lzu.edu.cn](mailto:zhangzhenyi19@lzu.edu.cn)
+ [zhangzhenyi19@lzu.edu.cn](mailto:zhangzhenyi19@lzu.edu.cn)
 
 
 
