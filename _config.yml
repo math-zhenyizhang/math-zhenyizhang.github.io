@@ -196,7 +196,6 @@ defaults:
       path: ""
       type: posts
     values:
-    sitemap:         false
       layout: single
       author_profile: true
       read_time: true
@@ -208,7 +207,6 @@ defaults:
       path: ""
       type: pages
     values:
-    sitemap:         false
       layout: single
       author_profile: true
   # _teaching
@@ -216,7 +214,6 @@ defaults:
       path: ""
       type: teaching
     values:
-    sitemap:         false
       layout: single
       author_profile: true
       share: true
@@ -226,7 +223,6 @@ defaults:
       path: ""
       type: publications
     values:
-    sitemap:         false
       layout: single
       author_profile: true
       share: true
@@ -236,7 +232,6 @@ defaults:
       path: ""
       type: portfolio
     values:
-    sitemap:         false
       layout: single
       author_profile: true
       share: true
@@ -246,7 +241,6 @@ defaults:
       path: ""
       type: talks
     values:
-    sitemap:         false
       layout: talk
       author_profile: true
       share: true
