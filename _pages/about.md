@@ -15,7 +15,7 @@ Hi! I am Zhenyi, currently an undergraduate student in Mathematics and Applied M
 
 I have a great interest in applied mathematics, especially in the interdisciplinary field involving mathematics. Nowadays mathematics has played an important role in more and more scientific problems. We hope to apply rigorous mathematical tools in more fields to reveal existing phenomena and solve practical problems. And that's what I want to pursue in the future. 
 
-Much welcome the discussion and cooperation!
+Much welcome the discussion and collaboration!
 
 **Contact**:
  * [zhangzhenyi19@lzu.edu.cn](mailto:zhangzhenyi19@lzu.edu.cn)
