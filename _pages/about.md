@@ -15,6 +15,13 @@ Hi! I am Zhenyi, currently an undergraduate student in Mathematics and Applied M
 
 I have a great interest in applied mathematics, especially in the interdisciplinary field involving mathematics. Nowadays mathematics has played an important role in more and more scientific problems. We hope to apply rigorous mathematical tools in more fields to reveal existing phenomena and solve practical problems. And that's what I want to pursue in the future. 
 
+Warmly welcome the discussion!
+
+**Contact**:
+[zhangzhenyi19@lzu.edu.cn](mailto:zhangzhenyi19@lzu.edu.cn)
+
+
+
 Grants
 ---
 * [National Undergraduate Student Innovation Traning Program of China](http://gjcxcy.bjtu.edu.cn/index.aspx), study on a stochastic algorithm for molecular dynamics driven by Lévy Process, (No. 202210730036, sponsored by The Ministry of Education of the P.R. China)
