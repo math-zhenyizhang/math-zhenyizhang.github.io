@@ -11,4 +11,4 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Lanzhou University(expected July 2023)
+* B.S. in Mathematics, Cuiying Honors College, Lanzhou University(expected July 2023)
