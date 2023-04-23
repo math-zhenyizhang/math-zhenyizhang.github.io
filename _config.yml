@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Zhenyi Zhang"
+title                    : "Zhenyi Zhang"
 title_separator          : "-"
 name                     : &name "Zhenyi Zhang"
 description              : &description "Undergraduate Student"
