@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhenyi Zhang"
   avatar           : "profile.png"
-  bio              : "Undergraduate in Mathematics and Applied Mathematics"
-  location         : "Lanzhou, China"
+  bio              : "Graduate in Computational Mathematics"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "zhangzhenyi19@lzu.edu.cn"
+  email            :  "zhenyizhang@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
