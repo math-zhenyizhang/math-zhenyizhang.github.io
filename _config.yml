@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhenyi Zhang"
 title_separator          : "-"
 name                     : &name "Zhenyi Zhang"
-description              : &description "Undergraduate Student"
+description              : &description "Graduate Student"
 url                      : https://math-zhenyizhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "math-zhenyizhang/math-zhenyizhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhenyi Zhang"
   avatar           : "profile.png"
-  bio              : "Graduate student in Computational Mathematics"
+  bio              : "Graduate student at Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
