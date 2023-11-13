@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Zhenyi, currently a PhD student in Computational Mathematics at [School of Mathematical Sciences(SMS)](https://www.math.pku.edu.cn/index.htm), [Peking University](https://english.pku.edu.cn/). My supervisor is Prof. [Tiejun Li](https://www.math.pku.edu.cn/teachers/litj/).
+Hi! I am Zhenyi, currently a PhD student in Computational Mathematics at [School of Mathematical Sciences(SMS)](https://www.math.pku.edu.cn/index.htm), [Peking University](https://english.pku.edu.cn/). My PhD supervisor is Prof. [Tiejun Li](https://www.math.pku.edu.cn/teachers/litj/).
 
 Prior to that, I received my BSc degree(2023) in Mathematics and Applied Mathematics from [Cuiying Honors College(CHC)](http://chc.lzu.edu.cn/), [Lanzhou University](https://en.lzu.edu.cn/) and adivsed by Prof. [Weihua Deng](https://orcid.org/0000-0002-8573-012X). During June 2022 - Sept. 2023, I also conducted research under the guidance of  [Zhennan Zhou](http://faculty.bicmr.pku.edu.cn/~zhennan/), at [Beijing International Center for Mathematical Research(BICMR)](https://bicmr.pku.edu.cn/), Peking University.
 
