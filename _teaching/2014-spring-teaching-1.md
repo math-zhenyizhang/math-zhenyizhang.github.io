@@ -8,4 +8,3 @@ date: 2023-09-01
 location: "Beijing, China"
 ---
 
-Teaching assistant.
