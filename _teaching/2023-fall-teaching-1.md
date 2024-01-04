@@ -7,4 +7,5 @@ venue: "School of Mathematical Sciences, Peking University"
 date: 2023-09-01
 location: "Beijing, China"
 ---
-
+The instructor is Prof. [Zhenfu Wang](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/). I worked with Suining Xiong as a grader.
+Here is the [course syllabus](http://faculty.bicmr.pku.edu.cn/~zhenfuwang/Fall2023RealVariable.pdf).
