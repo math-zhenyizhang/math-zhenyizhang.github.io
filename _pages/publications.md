@@ -11,6 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
+<h2 style="font-weight:bold;">Preprints</h2>
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.status == 'preprint' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2 style="font-weight:bold;">Published Works</h2>
+{% for post in site.publications reversed %}
+  {% if post.status == 'published' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
