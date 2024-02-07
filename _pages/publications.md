@@ -18,7 +18,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2 style="font-weight:bold;">Published Works</h2>
+<h2 style="font-weight:bold;"> </h2>
 {% for post in site.publications reversed %}
   {% if post.status == 'published' %}
     {% include archive-single.html %}
