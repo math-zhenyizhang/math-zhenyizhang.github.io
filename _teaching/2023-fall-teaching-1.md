@@ -1,5 +1,5 @@
 ---
-title: "Real Analysis(实变函数)"
+title: "Real Analysis"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
