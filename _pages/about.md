@@ -14,5 +14,5 @@ Prior to that, I received my B.S. degree(2023) in Mathematics and Applied Mathem
 
 I have a great interest in applied mathematics, especially in the interdisciplinary field involving mathematics. Nowadays mathematics has profound implications across various scientific disciplines. We aspire to employ mathematical tools across various fields, addressing practical problems and working towards a better understanding of underlying mechanisms. That’s what I want to pursue in the future. 
 
-[URL=https://info.flagcounter.com/IySK][IMG]https://s11.flagcounter.com/count2/IySK/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/[/IMG][/URL]
+<a href="https://info.flagcounter.com/IySK"><img src="https://s11.flagcounter.com/count2/IySK/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
