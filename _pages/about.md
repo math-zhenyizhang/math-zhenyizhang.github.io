@@ -14,4 +14,4 @@ Prior to that, I received my B.S. degree(2023) in Mathematics and Applied Mathem
 
 I have a great interest in applied mathematics, especially in the interdisciplinary field involving mathematics. Nowadays mathematics has profound implications across various scientific disciplines. We aspire to employ mathematical tools across various fields, addressing practical problems and working towards a better understanding of underlying mechanisms. That’s what I want to pursue in the future. 
 
-<a href="https://clustrmaps.com/site/1bypo"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=t_9Jh4tx9t-0rGCRbisirdbYPSh8djLHWa55wn7w308&cl=ffffff" /></a>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=t_9Jh4tx9t-0rGCRbisirdbYPSh8djLHWa55wn7w308&cl=ffffff&w=a"></script>
